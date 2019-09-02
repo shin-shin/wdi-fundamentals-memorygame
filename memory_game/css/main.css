@@ -59,6 +59,22 @@ main  {
 img {
   margin:40px 8px 0;
 }
+#score {
+  font-family: "Droid Serif", serif;
+  line-height: 26px;
+  font-size: 18px;
+}
+#reset {
+  background-color:#F15B31;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  width: 88%;
+  padding: 20px 0;
+  margin:10px auto;
+}
 footer {
   text-transform: uppercase;
   padding:0 20px;
